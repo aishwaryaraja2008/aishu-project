@@ -1,0 +1,22 @@
+h1 {
+    text-align: centre;
+    font-weight: bolder;
+    padding: 20px;
+    border: 2px solid black;
+    box-shadow: 5px 10px 18px #414040;
+    color: rgb(255, 255, 255);
+    background-color: rgb(160 19 19);
+}
+h2{
+   text-align: centre;
+   font-weight: bolder;
+   padding: 5px;
+   margin-left: auto;
+   margin-right: auto;
+   width: fit-content;
+
+   border: 2px solid black;
+   box-shadow: 5px 10px 18px #414040;
+   color: rgb(255, 255, 255);
+   background-color: rgb(160 19 19);
+}
